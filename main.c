@@ -1,3 +1,10 @@
+/* This program was made for the purpose of asking the user for the amount of numbers he wants in an array and then the numbers they want.
+ * It will also check the numbers in the array and check for duplicates. The array and the total amount of duplicates will be shown.
+ *
+ * Author: Angel Olvera
+ * October 13, 2018
+ * Mail: angelolvera00@gmail.com
+ */
 #include <stdio.h>
 
 int main() {
